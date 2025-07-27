@@ -31,7 +31,7 @@ export default function App() {
             </a>
           ))}
           <a
-            href="/New Resume 1.pdf"
+            href="/prashanth_resume.pdf"
             download
             className="bg-yellow-400 text-black px-4 py-2 rounded-full font-semibold shadow hover:bg-yellow-500 transition"
           >
